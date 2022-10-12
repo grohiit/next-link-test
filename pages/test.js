@@ -1,3 +1,3 @@
 export default function Test_Page() {
-  return <div>Test Page</div>
+  return <div className="border-2 border-black">Test Page</div>
 }
